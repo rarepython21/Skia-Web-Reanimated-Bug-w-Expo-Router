@@ -9,6 +9,11 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+ExampleReanimateResizeOnly
+
+ExampleReanimateResizeOnly
+ExampleResponsive
+MyComponent
 
 # macOS
 .DS_Store
