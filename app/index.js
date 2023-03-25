@@ -11,7 +11,7 @@ export default function Page() {
         <View style={{flex:1, backgroundColor:'', width: '100%'}}>
           <WithSkiaWeb
           opts={{ locateFile: (file) => `https://cdn.jsdelivr.net/npm/canvaskit-wasm@${version}/bin/full/${file}` }}
-          getComponent={() => import("../skia/ExampleReanimateResizeOnly")}
+          getComponent={() => import("../skia/Example")}
           />
         </View>
       </View>
