@@ -76,9 +76,7 @@ const Example = () => {
     const fontSize = 32;
     const font = useFont(require('../fonts/Roboto-Light.ttf'), fontSize);
 
-    const cx = useValue(100);
-    const cy = useValue(100);
-  
+    //touch handle:
     const touch = useTouchHandler({
       onStart: ({ x, y }) => {
         ani()
