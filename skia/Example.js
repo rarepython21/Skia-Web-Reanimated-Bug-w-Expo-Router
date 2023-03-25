@@ -121,7 +121,7 @@ const Example = () => {
           x={100}
           y={100}
           text={"test"}
-          // font={font}
+          font={font}
           size={32}
           opacity={100}
         />
