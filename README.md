@@ -25,11 +25,11 @@ I've setup this repo to demonstrate an error I am having setting up a Text objec
 15. and add a Text object
 
 ```
-<Text
+       <Text
           x={100}
           y={100}
           text={"test"}
-          // font={font}
+          font={font}
           size={32}
           opacity={100}
         />
