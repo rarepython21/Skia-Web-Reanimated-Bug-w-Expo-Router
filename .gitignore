@@ -10,9 +10,9 @@ npm-debug.*
 *.orig.*
 web-build/
 
-ExampleReanimateResizeOnly
-ExampleResponsive
-MyComponent
+skia/ExampleReanimateResizeOnly.js
+skia/ExampleResponsive.js
+skia/MyComponent.js
 
 # macOS
 .DS_Store
