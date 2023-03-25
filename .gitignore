@@ -10,7 +10,7 @@ npm-debug.*
 *.orig.*
 web-build/
 
-/skia/ExampleReanimateResizeOnly.js
+/skia/Example.js
 /skia/ExampleResponsive.js
 /skia/MyComponent.js
 
